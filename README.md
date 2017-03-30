@@ -1,2 +1,3 @@
-# Extended_Kalman_filter
-I am going to create a Kalman filetr for sensor fusion
+# Extended_Kalman filter
+This code tries to make an extended Kalman filter and study it.
+
